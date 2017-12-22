@@ -35,12 +35,9 @@ class Timer extends Component {
 
     }
 
-    console.log('t', this.props.navigation  )
   }
 
   render(){
-
-    const { navigate } = this.props.navigation
 
     return(
 
